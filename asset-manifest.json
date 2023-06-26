@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/App-News/static/css/main.0dd2e0c5.css",
+    "main.js": "/App-News/static/js/main.f81c2e09.js",
+    "static/js/787.4c026eef.chunk.js": "/App-News/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/App-News/static/media/loading.372b42cf636a06a45d06.gif",
+    "index.html": "/App-News/index.html",
+    "main.0dd2e0c5.css.map": "/App-News/static/css/main.0dd2e0c5.css.map",
+    "main.f81c2e09.js.map": "/App-News/static/js/main.f81c2e09.js.map",
+    "787.4c026eef.chunk.js.map": "/App-News/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dd2e0c5.css",
+    "static/js/main.f81c2e09.js"
+  ]
+}
